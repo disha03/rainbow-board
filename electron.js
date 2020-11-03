@@ -7,24 +7,25 @@ function createMainWindow() {
     webPreferences: {
       nodeIntegration: true
     },
-    icon: path.join(__dirname, '..', 'public', 'logo512.png')
+    icon: path.join(__dirname, 'public', 'logo512.png')
   })
 
   win.loadURL(
     isDev
-    ? "http://localhost:3000"
+    ? 'http://localhost:3000'
       : `file://${path.join(__dirname, '..', 'build', 'index.html')}`
   )
 
   win.removeMenu();
 
-  win.webContents.on('new-window', function(e, url) {
+  win.webContents.on('new-window', (e, url) => {
     e.preventDefault();
     shell.openExternal(url);
   })
 }
 app.setName('Rainbow Board');
 app.whenReady().then(createMainWindow);
+app.icon
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
