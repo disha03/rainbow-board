@@ -39,3 +39,5 @@ app.on('activate', () => {
     createMainWindow();
   }
 })
+
+if (require('electron-squirrel-startup')) return app.quit();
