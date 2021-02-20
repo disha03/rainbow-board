@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.e41f3640.chunk.css",
-    "main.js": "./static/js/main.0646ab78.chunk.js",
-    "main.js.map": "./static/js/main.0646ab78.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1b6ac064.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1b6ac064.js.map",
+    "main.css": "./static/css/main.76bb9c9b.chunk.css",
+    "main.js": "./static/js/main.fec9053b.chunk.js",
+    "main.js.map": "./static/js/main.fec9053b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6e37f61f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6e37f61f.js.map",
     "static/css/2.fecfecdd.chunk.css": "./static/css/2.fecfecdd.chunk.css",
-    "static/js/2.8235f7ff.chunk.js": "./static/js/2.8235f7ff.chunk.js",
-    "static/js/2.8235f7ff.chunk.js.map": "./static/js/2.8235f7ff.chunk.js.map",
-    "static/js/3.d8bb6d89.chunk.js": "./static/js/3.d8bb6d89.chunk.js",
-    "static/js/3.d8bb6d89.chunk.js.map": "./static/js/3.d8bb6d89.chunk.js.map",
+    "static/js/2.dec86a2c.chunk.js": "./static/js/2.dec86a2c.chunk.js",
+    "static/js/2.dec86a2c.chunk.js.map": "./static/js/2.dec86a2c.chunk.js.map",
+    "static/js/3.4b530c5a.chunk.js": "./static/js/3.4b530c5a.chunk.js",
+    "static/js/3.4b530c5a.chunk.js.map": "./static/js/3.4b530c5a.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.fecfecdd.chunk.css.map": "./static/css/2.fecfecdd.chunk.css.map",
-    "static/css/main.e41f3640.chunk.css.map": "./static/css/main.e41f3640.chunk.css.map",
-    "static/js/2.8235f7ff.chunk.js.LICENSE.txt": "./static/js/2.8235f7ff.chunk.js.LICENSE.txt",
-    "static/media/Credits.css": "./static/media/FingerPaint-Regular.6f84c47d.ttf",
+    "static/css/main.76bb9c9b.chunk.css.map": "./static/css/main.76bb9c9b.chunk.css.map",
+    "static/js/2.dec86a2c.chunk.js.LICENSE.txt": "./static/js/2.dec86a2c.chunk.js.LICENSE.txt",
+    "static/media/WhatsNew.css": "./static/media/FingerPaint-Regular.6f84c47d.ttf",
     "static/media/material-icons.css": "./static/media/MaterialIcons-Regular.f2a09334.woff",
     "static/media/index.css": "./static/media/Oxygen-Regular.9d375dd5.ttf",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b6ac064.js",
+    "static/js/runtime-main.6e37f61f.js",
     "static/css/2.fecfecdd.chunk.css",
-    "static/js/2.8235f7ff.chunk.js",
-    "static/css/main.e41f3640.chunk.css",
-    "static/js/main.0646ab78.chunk.js"
+    "static/js/2.dec86a2c.chunk.js",
+    "static/css/main.76bb9c9b.chunk.css",
+    "static/js/main.fec9053b.chunk.js"
   ]
 }
